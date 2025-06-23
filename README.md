@@ -14,6 +14,13 @@ This was done using LINQ queries and improves how bookings are managed and viewe
 # 3. Filter Venues by Availability
 A toggle lets users view only available venues.
 
+
+
+Web app: cldvpoepart3-gpdue2fwgwhhhah0.southafricanorth-01.azurewebsites.net
+
+Azure: https://portal.azure.com/#@advtechonline.onmicrosoft.com/resource/subscriptions/d1788afb-2254-4f5f-8826-94750f6da544/resourceGroups/AZ-JHB-RSG-VCECPE-ST10445246-TER/providers/Microsoft.Sql/servers/cldv-poe2025/databases/CLDVPOEEventEase/overview
+
+
 # References
 Stack Overflow, 2013. Filter large list based on DateTime (Version 2.0) [source code] Available at:<
 https://stackoverflow.com/questions/18375752/filter-large-list-based-on-date-time> [Accessed 22 June 2025].
