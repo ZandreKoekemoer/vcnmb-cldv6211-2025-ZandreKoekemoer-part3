@@ -1,0 +1,94 @@
+﻿@model IEnumerable<CLDVPOEMVCEventEase.Models.Venue>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="mb-3">Venues</h1>
+
+<div class="mb-3">
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</div>
+
+<form method="get" asp-action="Index" asp-controller="Venue" class="mb-4">
+    <div class="form-check">
+        <input class="form-check-input"
+               type="checkbox"
+               name="onlyAvailable"
+               id="onlyAvailable"
+               value="true"
+               onchange="this.form.submit()"
+        @(ViewBag.OnlyAvailable ? "checked" : "") />
+        <label class="form-check-label" for="onlyAvailable">Show only available</label>
+    </div>
+</form>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.VName)</th>
+            <th>@Html.DisplayNameFor(model => model.VLocation)</th>
+            <th>@Html.DisplayNameFor(model => model.Capacity)</th>
+            <th>@Html.DisplayNameFor(model => model.Available)</th>
+            <th>@Html.DisplayNameFor(model => model.URL)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var venue in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(m => venue.VName)</td>
+                <td>@Html.DisplayFor(m => venue.VLocation)</td>
+                <td>@Html.DisplayFor(m => venue.Capacity)</td>
+                <td>
+                    <span class="@(venue.Available ? "text-success" : "text-danger")">
+                        @(venue.Available ? "Yes" : "No")
+                    </span>
+                </td>
+                <td>
+                    @if (!string.IsNullOrEmpty(venue.URL))
+                    {
+                        <img src="@venue.URL"
+                             alt="Image of @venue.VName"
+                             class="img-thumbnail"
+                             style="max-width: 100px; height: auto;" />
+                    }
+                    else
+                    {
+                        <span class="text-muted">No Image</span>
+                    }
+                </td>
+                <td>
+                    <div class="d-flex flex-column gap-2">
+                        <div>
+                            <a asp-action="Edit" asp-route-id="@venue.VenueID">Edit</a> |
+                            <a asp-action="Details" asp-route-id="@venue.VenueID">Details</a> |
+                            <a asp-action="Delete" asp-route-id="@venue.VenueID">Delete</a>
+                        </div>
+                        <div>
+                            <a asp-controller="File"
+                               asp-action="Index"
+                               asp-route-venueId="@venue.VenueID"
+                               class="btn btn-sm btn-outline-info w-100">
+                                View Files
+                            </a>
+                        </div>
+                        <form asp-controller="File"
+                              asp-action="Upload"
+                              asp-route-venueId="@venue.VenueID"
+                              method="post"
+                              enctype="multipart/form-data"
+                              class="d-flex flex-row gap-2">
+                            <input type="file"
+                                   name="uploadedFile"
+                                   class="form-control form-control-sm"
+                                   style="width: 130px;" />
+                            <button type="submit" class="btn btn-sm btn-success">Upload</button>
+                        </form>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

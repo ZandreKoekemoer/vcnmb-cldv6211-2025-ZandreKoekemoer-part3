@@ -1,0 +1,57 @@
+﻿@model IEnumerable<CLDVPOEMVCEventEase.Models.Booking>
+
+@{
+    ViewData["Title"] = "Search";
+}
+
+<h1>Search</h1>
+
+<p>
+    <a asp-action="Index" class="btn btn-success">Back to List</a>
+</p>
+<form asp-action="Search" method="post" class="form-check-inline mb-3">
+    <label for="searchTerm" class="mr-2">Searching for booking by ID or Event Name:</label>
+    <input id="searchTerm" name="searchTerm" type="text" class="form-control mr-2" />
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BookingID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bdate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Event)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BookingID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Bdate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Venue.VName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Event.EName)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

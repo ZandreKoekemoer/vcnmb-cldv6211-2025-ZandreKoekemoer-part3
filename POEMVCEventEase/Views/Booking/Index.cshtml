@@ -1,0 +1,67 @@
+﻿@model IEnumerable<CLDVPOEMVCEventEase.Models.Booking>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="mb-3">Bookings</h1>
+
+<div class="mb-3 d-flex gap-3">
+    <a asp-action="Create" class="btn btn-success">Create New</a>
+    <a asp-action="Search" class="btn btn-info">Search Booking</a>
+</div>
+
+<form method="get" asp-action="Index" asp-controller="Booking" class="mb-4">
+    <div class="row gx-3 gy-2 align-items-end">
+        <div class="col-md-auto">
+            <label class="form-label" for="startDate">From:</label>
+            <input class="form-control"
+                   type="date"
+                   id="startDate"
+                   name="startDate"
+                   value="@(ViewBag.StartDate ?? "")" />
+        </div>
+        <div class="col-md-auto">
+            <label class="form-label" for="endDate">To:</label>
+            <input class="form-control"
+                   type="date"
+                   id="endDate"
+                   name="endDate"
+                   value="@(ViewBag.EndDate ?? "")" />
+        </div>
+        <div class="col-md-auto">
+            <button class="btn btn-primary" type="submit">Apply Filter</button>
+        </div>
+        <div class="col-md-auto">
+            <a asp-action="Index" class="btn btn-outline-secondary">Reset</a>
+        </div>
+    </div>
+</form>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Bdate)</th>
+            <th>@Html.DisplayNameFor(model => model.Venue)</th>
+            <th>@Html.DisplayNameFor(model => model.Event)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var booking in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(m => booking.Bdate)</td>
+                <td>@booking.Venue?.VName</td>
+                <td>@booking.Event?.EName</td>
+                <td>
+                    <div class="btn-group" role="group">
+                        <a asp-action="Details" asp-route-id="@booking.BookingID" class="btn btn-sm btn-outline-info">Details</a>
+                        <a asp-action="Edit" asp-route-id="@booking.BookingID" class="btn btn-sm btn-outline-warning">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@booking.BookingID" class="btn btn-sm btn-outline-danger">Delete</a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

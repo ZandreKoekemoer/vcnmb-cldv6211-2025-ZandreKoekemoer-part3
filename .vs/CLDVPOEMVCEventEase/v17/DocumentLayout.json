@@ -1,0 +1,704 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\file\\viewfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\file\\viewfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\file\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\file\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\eventtype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\eventtype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\eventtype\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\eventtype\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\eventtype\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\eventtype\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\eventtype\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\eventtype\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\eventtype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\eventtype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\booking\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\booking\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\booking\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\booking\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\booking\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\booking\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\controllers\\eventtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\controllers\\eventtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Venue\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POEMVCEventEase\\Views\\Venue\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Venue\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POEMVCEventEase\\Views\\Venue\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Venue\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POEMVCEventEase\\Views\\Venue\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Venue\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POEMVCEventEase\\Views\\Venue\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Venue\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POEMVCEventEase\\Views\\Venue\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Models\\Venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POEMVCEventEase\\Models\\Venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Models\\EventType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POEMVCEventEase\\Models\\EventType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Models\\Event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POEMVCEventEase\\Models\\Event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Models\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POEMVCEventEase\\Models\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Models\\Booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:POEMVCEventEase\\Models\\Booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 467,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Delete.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\EventType\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Delete.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\EventType\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:05.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Details.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\EventType\\Details.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Details.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\EventType\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:06.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Edit.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\EventType\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Edit.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\EventType\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:06.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Index.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\EventType\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Index.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\EventType\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:07.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:12.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\File\\Index.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\File\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\File\\Index.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\File\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:09.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewFile.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\File\\ViewFile.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\File\\ViewFile.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\File\\ViewFile.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\File\\ViewFile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:10.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:22:53.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\appsettings.json",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\appsettings.json",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\appsettings.json",
+              "RelativeToolTip": "POEMVCEventEase\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T13:37:37.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Program.cs",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Program.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Program.cs",
+              "RelativeToolTip": "POEMVCEventEase\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:37:46.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Create.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\EventType\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Create.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\EventType\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:04.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Event\\Index.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowDcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:03.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Event\\Edit.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Event\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Event\\Edit.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Event\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:02.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Event\\Details.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Event\\Details.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Event\\Details.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Event\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:00.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Event\\Delete.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Event\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Event\\Delete.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Event\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:00.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Event\\Create.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Event\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Event\\Create.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Event\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:54:59.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Search.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Booking\\Search.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Search.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Booking\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:54:57.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:54:56.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Edit.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Booking\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Edit.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Booking\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:54:56.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Details.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Booking\\Details.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Details.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Booking\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:54:55.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Delete.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Booking\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Delete.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Booking\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:54:54.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Create.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Booking\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Create.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Booking\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:54:53.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\VenueController.cs",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\VenueController.cs",
+              "RelativeToolTip": "POEMVCEventEase\\Controllers\\VenueController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAUwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:54:46.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\EventController.cs",
+              "RelativeToolTip": "POEMVCEventEase\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:54:41.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "POEMVCEventEase\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:54:40.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "POEMVCEventEase\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-23T17:25:39.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "POEMVCEventEase\\Controllers\\SearchController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:54:45.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\FileController.cs",
+              "RelativeToolTip": "POEMVCEventEase\\Controllers\\FileController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:54:43.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EventTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\EventTypeController.cs",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Controllers\\EventTypeController.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\EventTypeController.cs",
+              "RelativeToolTip": "POEMVCEventEase\\Controllers\\EventTypeController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAADwvw4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:54:37.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Venue\\Index.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Venue\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Venue\\Index.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Venue\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:21.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T17:24:01.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Venue\\Edit.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Venue\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Venue\\Edit.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Venue\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:20.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:13.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Venue\\Create.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Venue\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Venue\\Create.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Venue\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:17.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Venue\\Delete.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Venue\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Venue\\Delete.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Venue\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:18.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Venue\\Details.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Venue\\Details.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Venue\\Details.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\Venue\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:19.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Models\\Venue.cs",
+              "RelativeToolTip": "POEMVCEventEase\\Models\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:54:52.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EventType.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Models\\EventType.cs",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Models\\EventType.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Models\\EventType.cs",
+              "RelativeToolTip": "POEMVCEventEase\\Models\\EventType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:54:51.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Models\\Event.cs",
+              "RelativeToolTip": "POEMVCEventEase\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:54:51.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "POEMVCEventEase\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:54:14.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Models\\Booking.cs",
+              "RelativeToolTip": "POEMVCEventEase\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:52:22.065Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

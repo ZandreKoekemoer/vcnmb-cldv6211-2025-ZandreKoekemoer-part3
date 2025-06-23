@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLDVPOEMVCEventEase", "POEMVCEventEase\CLDVPOEMVCEventEase.csproj", "{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8832854-8136-4864-A254-9E9291205E62}
+	EndGlobalSection
+EndGlobal
