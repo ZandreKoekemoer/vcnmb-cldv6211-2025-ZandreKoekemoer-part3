@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -99,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|c:\\users\\zandr\\source\\repos\\poemvceventease\\poemvceventease\\controllers\\eventtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AE31A1-88FF-4981-869D-8D3D2AA3E7AD}|POEMVCEventEase\\CLDVPOEMVCEventEase.csproj|solutionrelative:poemvceventease\\controllers\\eventtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -174,37 +174,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Delete.cshtml",
-              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\EventType\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Delete.cshtml",
-              "RelativeToolTip": "POEMVCEventEase\\Views\\EventType\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-23T15:55:05.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Details.cshtml",
-              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\EventType\\Details.cshtml",
-              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Details.cshtml",
-              "RelativeToolTip": "POEMVCEventEase\\Views\\EventType\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-23T15:55:06.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Edit.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\EventType\\Edit.cshtml",
@@ -217,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Index.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\EventType\\Index.cshtml",
@@ -230,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Home\\Index.cshtml",
@@ -243,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\File\\Index.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\File\\Index.cshtml",
@@ -256,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ViewFile.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\File\\ViewFile.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\File\\ViewFile.cshtml",
@@ -269,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Shared\\_Layout.cshtml",
@@ -282,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\appsettings.json",
               "RelativeDocumentMoniker": "POEMVCEventEase\\appsettings.json",
@@ -295,20 +269,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Program.cs",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Program.cs",
               "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Program.cs",
               "RelativeToolTip": "POEMVCEventEase\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T13:37:46.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "POEMVCEventEase\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAIwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:54:40.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Details.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\EventType\\Details.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Details.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\EventType\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:06.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Delete.cshtml",
+              "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\EventType\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Delete.cshtml",
+              "RelativeToolTip": "POEMVCEventEase\\Views\\EventType\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:55:05.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\EventType\\Create.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\EventType\\Create.cshtml",
@@ -321,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Event\\Index.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Event\\Index.cshtml",
@@ -334,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Event\\Edit.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Event\\Edit.cshtml",
@@ -347,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Event\\Details.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Event\\Details.cshtml",
@@ -360,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Event\\Delete.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Event\\Delete.cshtml",
@@ -373,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Event\\Create.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Event\\Create.cshtml",
@@ -386,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Search.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Search.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Booking\\Search.cshtml",
@@ -399,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Index.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Booking\\Index.cshtml",
@@ -412,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Edit.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Booking\\Edit.cshtml",
@@ -425,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Details.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Booking\\Details.cshtml",
@@ -438,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Delete.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Booking\\Delete.cshtml",
@@ -451,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Views\\Booking\\Create.cshtml",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Views\\Booking\\Create.cshtml",
@@ -464,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "VenueController.cs",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\VenueController.cs",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Controllers\\VenueController.cs",
@@ -477,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "EventController.cs",
               "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "POEMVCEventEase\\Controllers\\EventController.cs",
@@ -486,19 +499,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T15:54:41.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\BookingController.cs",
-              "RelativeDocumentMoniker": "POEMVCEventEase\\Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Users\\zandr\\source\\repos\\POEMVCEventEase\\POEMVCEventEase\\Controllers\\BookingController.cs",
-              "RelativeToolTip": "POEMVCEventEase\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAACYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T15:54:40.769Z",
               "EditorCaption": ""
             },
             {
